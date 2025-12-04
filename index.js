@@ -3,7 +3,7 @@ import axios from "axios";
 
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const VIRALSMM_API_KEY = process.env.VIRALSMM_API_KEY;
-const VIRALSMM_API_URL = "https://aapkaprovider.com/api/v2";
+const VIRALSMM_API_URL = "https://rabbitsmm.store/api/v2";
 
 const bot = new Telegraf(BOT_TOKEN);
 
